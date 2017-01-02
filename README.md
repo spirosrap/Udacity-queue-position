@@ -8,3 +8,6 @@ pip install termcolor
 ### How to run
 
 python waiting.py -T [YOUR API KEY]
+
+
+![screenshot](screenshot.png)
